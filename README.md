@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, my name is Guilherme. I'm a software developer(moObie) and instructor(Caelum) in Brazil.
 
 <!--
 **guiromao87/guiromao87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
