@@ -1,10 +1,12 @@
-### Hi, my name is Guilherme. I'm a software developer(moObie) and instructor(Caelum) in Brazil.
+ # Guilherme Romão :computer:
+ 
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-rom%C3%A3o-224a57102/)](https://www.linkedin.com/in/guilherme-rom%C3%A3o-224a57102/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gui_romao87)](https://twitter.com/gui_romao87)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/7code_/)](https://www.instagram.com/7code_/)
 
-<!--
-**guiromao87/guiromao87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ### Hi, my name is Guilherme. I'm a software developer(moObie) and instructor(Caelum) in Brazil.
 
-Here are some ideas to get you started:
-
+<!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
