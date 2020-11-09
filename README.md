@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gui_romao87)](https://twitter.com/gui_romao87)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/7code_/)](https://www.instagram.com/7code_/)
 
- ### Hi, my name is Guilherme. I'm a software developer(moObie) and instructor(Caelum) in Brazil.
+ ### Hi, my name is Guilherme. I'm a software developer(Elo7) and instructor(Caelum) in Brazil.
 
 <!-- 
 - 🔭 I’m currently working on ...
